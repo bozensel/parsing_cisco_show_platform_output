@@ -35,6 +35,7 @@ def show_platform(data_to_parse):
 print(show_platform(data_to_parse))
 
 """
+
 Given Output: 
 
 [{'SHOW_PLATFORM': [{'Current_State': 'Ready', 'Priority': '15', 'Role': 'Active', 'switch_id': '1'}, {'Current_State': 'Ready', 'Priority': '14', 'Role': 'Standby', 'switch_id': '2'}, {'Current_State': 'Ready', 'Priority': '13', 'Role': 'Member', 'switch_id': '3'}]}]
